@@ -1,12 +1,10 @@
-
-
-
-## Step 1: Create 3 new Sections
+# Step 1: Create 3 new Sections
 
 You have to create 3 new components in the `/components` folder. These components will be used to display the cards in the `/pages/index.js` file.
 
 Create these three layout as sections with the components and demo data provided   `/data`.
 
+![](https://raw.githubusercontent.com/Abbhiishek/galaxy-library/main/public/main.png)
 
 ## Instructions
 
